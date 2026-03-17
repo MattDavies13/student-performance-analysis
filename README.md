@@ -1,4 +1,4 @@
-# Matt Davies - Data Analysis Protfolio
+# Matt Davies - Data Analysis Portfolio
 
 # About
 Hi, I’m Matt. I have a background in Computer Science and currently work as a secondary school teacher in Wales, where I lead Personal and Social Education (PSE) and Relationships and Sexuality Education (RSE).
